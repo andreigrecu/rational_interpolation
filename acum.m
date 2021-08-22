@@ -2,7 +2,6 @@ clear all
 close all
 clc
 
-%Tema numarul 9, Grecu Andrei-Alexandru, 324AB
 
 n = 4;
 % se alege un n>=3(ca gradul numaratorului+gradul numitorului sa fie >=6
